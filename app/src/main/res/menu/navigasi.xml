@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single"
+        android:id="@+id/tes">
+        <item
+            android:id="@+id/nav_dasar"
+            android:title="Dasar Pancasila"
+            android:icon="@drawable/ic_chrome_reader_mode_black_24dp" />
+        <item
+            android:id="@+id/nav_sejarah"
+            android:title="Sejarah"
+            android:icon="@drawable/ic_chrome_reader_mode_black_24dp"/>
+        <item
+            android:id="@+id/nav_sila1"
+            android:title="@string/Bar1"
+            android:icon="@drawable/ic_chrome_reader_mode_black_24dp"/>
+        <item
+            android:id="@+id/nav_sila2"
+            android:title="@string/Bar2"
+            android:icon="@drawable/ic_chrome_reader_mode_black_24dp"/>
+        <item
+            android:id="@+id/nav_sila3"
+            android:title="@string/Bar3"
+            android:icon="@drawable/ic_chrome_reader_mode_black_24dp"/>
+        <item
+            android:id="@+id/nav_sila4"
+            android:title="@string/Bar4"
+            android:icon="@drawable/ic_chrome_reader_mode_black_24dp"/>
+        <item
+            android:id="@+id/nav_sila5"
+            android:title="@string/Bar5"
+            android:icon="@drawable/ic_chrome_reader_mode_black_24dp"/>
+        <item
+            android:id="@+id/nav_exit"
+            android:title="@string/BarExit"
+            android:icon="@drawable/ic_exit_to_app_black_24dp"/>
+    </group>
+</menu>

@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Makna Pancasila</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="st_dasar">5 Dasar Negara</string>
+    <string name="st_sejarah">Sejarah</string>
+    <string name="st_pancasila">PANCASILA</string>
+    <string name="tit_sejarah">Sejarah Pancasila</string>
+    <string name="st_sila1">Ketuhanan yang maha Esa</string>
+    <string name="st_sila2">Kemanusiaan yang adil dan beradab</string>
+    <string name="st_sila3">Persatuan Indonesia</string>
+    <string name="st_sila4">Kerakyatan yang dipimpin oleh hikmat kebijaksanaan dalam permusyawaratan/perwakilan</string>
+    <string name="st_sila5">Keadilan sosial bagi seluruh rakyat Indonesia</string>
+    <string name="Header_Title">Makna, Butir dan Arti Lambang Pancasila</string>
+    <string name="Bar1">Sila ke-1</string>
+    <string name="Bar2">Sila ke-2</string>
+    <string name="Bar3">Sila ke-3</string>
+    <string name="Bar4">Sila ke-4</string>
+    <string name="Bar5">Sila ke-5</string>
+    <string name="BarExit">Keluar</string>
+    <string name="head_Sejarah">Sejarah Pancasila</string>
+    <string name="Tab1">Arti Lambang Pancasila</string>
+    <string name="Tab2">Makna Pancasila</string>
+    <string name="Tab3">Butir-butir Pancasila</string>
+    <string name="Gambar1">Gambar: Panitia Sembilan BPUPKI</string>
+    <string name="Gambar2">Gambar: Lambang Sila ke-1 (Bintang)</string>
+    <string name="Gambar3">Gambar: Lambang Sila ke-2 (Rantai)</string>
+    <string name="Gambar4">Gambar: Lambang Sila ke-3 (Beringin)</string>
+    <string name="Gambar5">Gambar: Lambang Sila ke-4 (Kepala Banteng)</string>
+    <string name="Gambar6">Gambar: Lambang Sila ke-5 (Padi dan Kapas)</string>
+
+    <!-- AdMob ad unit IDs , Kode ADMOB-->
+    <string name="banner_home_footer">ca-app-pub-9483653834645976/1803054045</string>
+</resources>
